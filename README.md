@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# site-scritps
-A Plasmo based chrome extension to run scripts on different urls
-=======
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
